@@ -25,7 +25,6 @@ Here are other example situations:
 -1, -2, -3 results in -6
 Starting with a frequency of zero, what is the resulting frequency after all of the changes in frequency have been applied?
 
-Your puzzle answer was 454.
 
 ### --- Part Two ---
 You notice that the device repeats the same frequency change list over and over. To calibrate the device, you need to find the first frequency it reaches twice.
